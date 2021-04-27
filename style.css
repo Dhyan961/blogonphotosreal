@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+#p1{
+    font-size: 35px;
+}
+#img1,#img2,#img3,#img4{
+    height: 300px;
+    width: 400px;
+    margin: 30px;
+}
